@@ -1,5 +1,5 @@
 # Welcome to my Git
-<br>I'm Prerana Bubbly, a full-stack software engineer. I build web applications from clean, responsive user interfaces to secure, scalable backend systems.<br><br>💼 Currently at Yahweh Software Solutions<br>💬 Ask Me About React responsive designs, Node.js API engineering, databases, deployment, and cloud platforms<br>✨ Currently mastering TypeScript for type-safe code and Docker for containerized deployment.<br>🧠 Fun Fact is tht If I'm not coding, you'll find me browsing how to get that Zuckerberg brain <br><br><br>
+<br>I'm Prerana Bubbly, a full-stack software engineer. I build web applications from clean, responsive user interfaces to secure, scalable backend systems.<br><br>💼 Currently at Yahweh Software Solutions<br>💬 Ask Me About React responsive designs, Node.js API engineering, databases, deployment, and cloud platforms<br>✨ Currently mastering TypeScript for type-safe code and Docker for containerized deployment.<br>🧠 Fun Fact is tht If I'm not coding, you'll find me browsing how to get that Zuckerberg brain <br><br><br>.
 
 
 ## 🌐 Socials:
