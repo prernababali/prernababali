@@ -1,11 +1,8 @@
 # Welcome to my Git
 
-
-
 <p align="center">
   <img src="./assets/download%20(4).jpg" alt="Banner" width="90%" />
 </p>
-
 
 
 <br>
