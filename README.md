@@ -2,6 +2,24 @@
 <br>I'm Prerana Bubbly, a full-stack software engineer. I build web applications from clean, responsive user interfaces to secure, scalable backend systems.<br><br>💼 Currently at Yahweh Software Solutions<br>💬 Ask Me About React responsive designs, Node.js API engineering, databases, deployment, and cloud platforms<br>✨ Currently mastering TypeScript for type-safe code and Docker for containerized deployment.<br>🧠 Fun Fact is tht If I'm not coding, you'll find me browsing how to get that Zuckerberg brain <br><br><br>.
 
 
+
+
+## 👩‍💻 About Me
+
+I am a **Full Stack Developer** and **Software Engineering enthusiast**.  
+My focus is on building **scalable applications**, solving real-world problems, and writing **clean, efficient code**.
+
+- ➤ I blend engineering with creativity to build products that delight users.
+- ➤ Debugging and problem-solving are at the heart of my workflow.
+- ➤ I aim to create real-world impact through technology.
+
+---
+
+
+
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/preranababali) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/prernabubbly/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preranababali@gmail.com) 
 
