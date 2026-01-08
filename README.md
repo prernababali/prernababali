@@ -31,7 +31,7 @@ A secure file upload application that allows authenticated users to upload, mana
 - ➤ Node.js, Express, Multer, Prisma ORM
 - ➤ JWT authentication with Google OAuth
 - ➤ Metadata stored securely in database  
-👉 [View Project](https://github.com/prernababali/odin-file-uploader)
+👉 [View Project](https://github.com/prernababali/File-Vault-Secure-File-Upload-Application-)
 
 ---
 
@@ -41,7 +41,7 @@ A cross-platform mobile To-Do application focused on productivity, task prioriti
 - ➤ React Native + Expo
 - ➤ JWT authentication & task CRUD
 - ➤ Priority and deadline-based task management  
-👉 [View Project](https://github.com/prernababali/taskify-mobile)
+👉 [View Project](https://github.com/prernababali/Taskify-Mobile-Secure-Full-Stack-To-Do-Application)
 
 
 
