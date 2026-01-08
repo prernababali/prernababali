@@ -1,5 +1,13 @@
 # Welcome to my Git
 
+
+
+<p align="center">
+  <img src="assets/featured-banner.png" alt="Banner" width="90%" />
+</p>
+
+
+
 <br>
 I'm Prerana Bubbly, a full-stack software engineer. I build web applications from clean, responsive user interfaces to secure, scalable backend systems.
 <br><br>
@@ -43,6 +51,7 @@ A cross-platform mobile To-Do application focused on productivity, task prioriti
 - ➤ Priority and deadline-based task management  
 👉 [View Project](https://github.com/prernababali/Taskify-Mobile-Secure-Full-Stack-To-Do-Application)
 
+---
 
 
 # 💻 Tech Stack:
