@@ -1,9 +1,9 @@
 # Welcome to my Git
 
-<p align="center">
-  <img src="./assets/download%20(4).jpg" alt="Banner" width="90%" />
-</p>
 
+<p align="center">
+  <img src="./download%20(4).jpg" alt="Banner" width="90%" />
+</p>
 
 <br>
 I'm Prerana Bubbly, a full-stack software engineer. I build web applications from clean, responsive user interfaces to secure, scalable backend systems.
