@@ -33,6 +33,26 @@ I'm Prerana Bubbly, a full-stack software engineer. I build web applications fro
 ![](https://nirzak-streak-stats.vercel.app/?user=prernababali&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prernababali&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+## ⚡ Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prernababali&show_icons=true&hide_title=true" />
+</p>
+
+
+
+## 🔥 Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prernababali&theme=github-light" />
+</p>
+
+
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
