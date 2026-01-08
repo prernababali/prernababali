@@ -34,11 +34,6 @@ I'm Prerana Bubbly, a full-stack software engineer. I build web applications fro
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prernababali&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🔥 Recent GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prernababali&show_icons=true&include_all_commits=true&hide_rank=true" />
-</p>
 
 
 ## 🔥 Recent GitHub Activity
