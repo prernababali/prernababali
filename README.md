@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="assets/featured-banner.png" alt="Banner" width="90%" />
+  <img src="./assets/download%20(4).jpg" alt="Banner" width="90%" />
 </p>
 
 
