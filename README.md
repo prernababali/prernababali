@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/preranababali?template=classic&base=header,activity,community,repositories,metadata&languages=1&activity=1&config.timezone=Asia/Kolkata" />
+  <img src="https://metrics.lecoq.io/prernababali?template=classic&base=header,activity,community,repositories,metadata&languages=1&activity=1&config.timezone=Asia/Kolkata" />
 </p>
 
 
