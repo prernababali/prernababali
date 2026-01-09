@@ -73,9 +73,7 @@ A cross-platform mobile To-Do application focused on productivity, task prioriti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/preranababali) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/prernabubbly/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preranababali@gmail.com) 
 
 ---
-![Metrics](https://metrics.lecoq.io/prernababali?template=classic&base=header,activity,repositories,metadata&languages=1&isocalendar=1&activity=1&theme=dark&config.timezone=Asia/Calcutta)
-
-
+![Metrics](https://raw.githubusercontent.com/prernababali/prernababali/main/github-metrics.svg)
 
 ---
 
