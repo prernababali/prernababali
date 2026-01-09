@@ -9,10 +9,13 @@
 I'm Prerana Bubbly, a full-stack software engineer. I build web applications from clean, responsive user interfaces to secure, scalable backend systems.
 <br><br>
 
-ㆍ➙ Currently at Yahweh Software Solutions. 
-ㆍ➙ Ask Me About React responsive designs, Node.js API engineering, databases, deployment, and cloud platforms.  
-ㆍ➙ Currently mastering TypeScript for type-safe code and Docker for containerized deployment.  
-ㆍ➙ Fun Fact: If I'm not coding, you'll find me browsing how to get that Zuckerberg brain. 
+ㆍ➜ Currently at Yahweh Software Solutions. 
+
+ㆍ➜ Ask Me About React responsive designs, Node.js API engineering, databases, deployment, and cloud platforms.  
+
+ㆍ➜ Currently mastering TypeScript for type-safe code and Docker for containerized deployment.  
+
+ㆍ➜ Fun Fact: If I'm not coding, you'll find me browsing how to get that Zuckerberg brain. 
 
 <br><br>
 
