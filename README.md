@@ -1,4 +1,4 @@
-#  ★〰️ Welcome to my Git 〰️★
+#  ★ Welcome to my Git ★
 
 <p align="center">
   <img src="./download%20(4).jpg" alt="Banner" width="90%" />
@@ -8,7 +8,6 @@
 <br>
 I'm Prerana Bubbly, a full-stack software engineer. I build web applications from clean, responsive user interfaces to secure, scalable backend systems.
 <br><br>
-
 
 ㆍ➙ Currently at Yahweh Software Solutions. 
 ㆍ➙ Ask Me About React responsive designs, Node.js API engineering, databases, deployment, and cloud platforms.  
